@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can see it in your local.
+The app is basically just a tinder for pets. Try it!
 
 ## Available Scripts
 
